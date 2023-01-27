@@ -17,7 +17,6 @@
 > - Cobol
 > - Compilation
 > - D
-> - Delphi
 > - Eiffel
 > - Erlang
 > - Forth
