@@ -1,4 +1,4 @@
--- A "Hello World" collection of C Language
+-- A "Hello World" collection of Ada Language
 with Ada.Text_IO
 procedure HelloWorld is
 begin
